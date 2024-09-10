@@ -1,5 +1,5 @@
 # fbb-skull
-Quantification of off-target skull binding of [18F]florbetaben (FBB) in FBB-PET imagery using [SPM12's](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) (Wellcome Department of Cognitive Neurology) unified segmentation algorithm. 
+Quantification of off-target skull binding of [18F]florbetaben (FBB) in FBB-PET imagery using [SPM12's](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) (Wellcome Department of Cognitive Neurology) unified segmentation algorithm. [Link to paper](https://pubmed.ncbi.nlm.nih.gov/38387615/)
 
 ## A_dicom2nifti: 
 Converts the DICOMs, centers the coordinate system on the geometric centroid of the respective image, and extracts patient information from the DICOM header.
